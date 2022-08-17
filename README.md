@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **All about Data Science**
 
-- 💬 Ask me about: OOP, C#, Python, R, Bioinformatics, Statistics, Databases & SQL, ETL, Linux
+- 💬 Ask me about: **OOP, C#, Python, R, Bioinformatics, Statistics, Databases & SQL, ETL, Linux**
 - ❤️ I love: triathlon 🏊🚴🏃, music 🎹 🎸 & reading about tech 💻
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/adam-%C5%82angowski-8b7397237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
