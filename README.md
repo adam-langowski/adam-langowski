@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A Bioinformatics student & aspiring Data Analyst</h3>
+<h3 align="center">A Bioinformatics student & aspiring Data Scientist</h3>
 
 
 - 🔭 I’m currently working on: **test automation in .NET Framework using Specflow and Selenium**
