@@ -2,11 +2,11 @@
 <h3 align="center">A Bioinformatics student & aspiring Data Scientist</h3>
 
 
-- 🔭 I’m currently working on: **test automation in .NET Framework using Specflow and Selenium**
+- 🔭 I’m currently working on: **test automation in .NET Framework** as a **Junior Test Developer**
+     
+- 🌱 I’m currently learning: **all about Data Science**
 
-- 🌱 I’m currently learning: **All about Data Science**
- Data Analysis, 
-- 💬 Ask me about: **Data Analysis, OOP, C#, Python, R, Bioinformatics, Statistics, Databases & SQL, ETL, Linux**
+- 💬 Ask me about: **data analysis, OOP, C#, Python, R, Bioinformatics, Statistics, Databases & SQL, ETL, Linux**
 
 - 💻 My **Leetcode** progress (focusing on Python and SQL regular practice):
 
