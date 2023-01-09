@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **test automation in .NET Framework** as a **Junior Test Developer**
      
-- 🌱 I’m currently learning: **all about Data Science**
+- 🌱 I’m currently learning: **all about Data Science (focusing on Convolutional Neural Networks for my BSc graduate work)**
 
 - 💬 Ask me about: **data analysis, OOP, C#, Python, R, Bioinformatics, Statistics, Databases & SQL, ETL, Linux**
 
