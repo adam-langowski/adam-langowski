@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A Bioinformatics student & aspiring Data Scientist</h3>
+<h3 align="center">A Bioinformatics master's student & aspiring Data Scientist / Machine Learning Engineer</h3>
 
-
-- 🔭 I’m currently working on: **test automation in .NET Framework** as a **Junior Test Developer**
+BSc Thesis: Application of machine learning algorithms to the analysis of clinical and phenotypic data
+- 🔭 I’m currently working on: **test automation in .NET & Azure** as a **Test Developer** and collaborating on university **science project MOSAIC (MultiOmicS and Artificial Intelligence for Clinical practice)**
      
-- 🌱 I’m currently learning: **all about Data Science (focusing on Convolutional Neural Networks for my BSc graduate work)**
+- 🌱 I’m currently learning: **all about AI, ML, Bioinformatics**
 
-- 💬 Ask me about: **data analysis, OOP, C#, Python, R, Bioinformatics, Statistics, Databases & SQL, ETL, Linux**
+- 💬 Ask me about: **Data Analysis, Machine Learning, Digital Image Processing, Databases & SQL, ETL, test automation, Microsoft Azure**
 
 - 💻 My **Leetcode** progress (focusing on Python and SQL regular practice):
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/a_langowski?theme=nord,?border=0&radius=20)
 
-- ❤️ I love: triathlon 🏊🚴🏃, music 🎹 🎸 & reading about tech 💻
+- ❤️ I love: sports 🏊🚴🏃, music 🎹 🎸 & reading about tech 💻
 - 📫 How to reach me: 
     
     <a href="https://www.linkedin.com/in/adam-%C5%82angowski-8b7397237/">
