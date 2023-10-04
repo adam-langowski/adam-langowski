@@ -6,9 +6,9 @@ BSc Thesis: Application of machine learning algorithms to the analysis of clinic
      
 - 🌱 I’m currently learning: **all about AI, ML, Bioinformatics**
 
-- 💬 Ask me about: **Data Analysis, Machine Learning, Image Processing, Databases & SQL, ETL, test automation, Microsoft Azure**
+- 💬 Ask me about: **Data Analysis, Machine Learning, Image Processing, Databases & SQL, ETL, Test Automation, Microsoft Azure**
 
-- 💻 My **Leetcode** progress (focusing on Python and SQL regular practice):
+- 💻 My **Leetcode** progress (focusing on **Python and SQL** regular practice):
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/a_langowski?theme=nord,?border=0&radius=20)
 
