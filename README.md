@@ -2,15 +2,17 @@
 <h3 align="center">A Bioinformatics master's student & aspiring Data Scientist / Machine Learning Engineer</h3>
 
 BSc Thesis: Application of machine learning algorithms to the analysis of clinical and phenotypic data
-- 🔭 I’m currently working on: **test automation in .NET & Azure** as a **Test Developer** and collaborating on university **science project MOSAIC (MultiOmicS and Artificial Intelligence for Clinical practice)**
-     
+
 - 🌱 I’m currently learning: **all about AI, ML, Bioinformatics**
 
-- 💬 Ask me about: **Data Analysis, Machine Learning, Image Processing, Databases & SQL, ETL, Test Automation, Microsoft Azure**
+- 💬 Ask me about: **Data Analysis, ML & DL, Image Processing & CV, Databases & SQL, Test Automation, Microsoft Azure**
 
-- 💻 My **Leetcode** progress (focusing on **Python and SQL** regular practice):
+- 💻 My **Codewars** & **Leetcode** progress:
+
+![Codewars](https://github.r2v.ch/codewars?user=adam-langowski&theme=gradient&hide_clan=true&top_languages=true)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/a_langowski?theme=nord,?border=0&radius=20)
+
 
 - ❤️ I love: sports 🏊🚴🏃, music 🎹 🎸 & reading about tech 💻
 - 📫 How to reach me: 
