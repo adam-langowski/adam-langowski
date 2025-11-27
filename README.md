@@ -34,7 +34,7 @@ A passionate engineer focused on applying AI, Machine Learning and Data Science 
 ### 🛠️ Tools I work with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,azure,r,cs,cpp,git,linux,docker,selenium" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,azure,gitlab,linux,docker,prometheus,grafana,mongodb,postgres,r,vscode" />
 </p>
 
 ---
